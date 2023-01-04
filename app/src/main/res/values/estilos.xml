@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    public class MainActivity extends ActionBarActivity {
+
+    TextView TV;     //desclaramos nuestroTEXTVIEW de nuestro LAYOUT
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_main);
+
+    TV = (TextView)findViewById(R.id.TV_id);   //definimos en ONCREATE donde esta por                                                                                                     //medio de un ID
+
+    String font_path = "font/MixBrush.ttf";  //definimos un STRING con el valor PATH ( o ruta por                                                                                    //donde tiene que buscar ) de nuetra fuente
+
+    Typeface TF = Typeface.createFromAsset(getAssets(),font_path);
+
+    //llamanos a la CLASS TYPEFACE y la definimos con un CREATE desde                                                    //ASSETS con la ruta STRING
+
+    TV.setTypeface(TF);   //finalmente aplicamos TYPEFACE al TEXTVIEW
+
+</resources>

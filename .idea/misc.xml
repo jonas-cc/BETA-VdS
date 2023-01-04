@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/activity_age_date.xml" value="0.33" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/activity_banquetes.xml" value="0.22" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/activity_confirmed_date.xml" value="0.25" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/activity_paquetes_r1.xml" value="0.33" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/activity_paquetes_r2.xml" value="0.5" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/activity_salon2.xml" value="0.1" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/activity_update_date.xml" value="0.33" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/content_menu.xml" value="0.1" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/fragment_citas.xml" value="0.5" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/fragment_menu_banquetes.xml" value="0.1" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/fragment_privacidad.xml" value="0.13360507246376813" />
+        <entry key="..\:/Documentos/VILLADELSOL-BETA/VillaDelSol-master/app/src/main/res/layout/fragment_room1.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

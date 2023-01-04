@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Privacidad"
+        android:background="@drawable/textura">
+
+        <TextView
+            android:id="@+id/textView40"
+            android:layout_width="349dp"
+            android:layout_height="1170dp"
+            android:layout_marginTop="224dp"
+            android:fontFamily="sans-serif-black"
+            android:justificationMode="inter_word"
+            android:text="Salón de eventos “Villa del sol”. (en lo sucesivo, el “Responsable”), con domicilio en (Av. Ricardo Flores Magón S/N Carr. Tlalmanalco -  San Rafael San Juan Atzacualoya C.P. 56720 ), en cumplimiento con la Ley Federal de Protección de Datos Personales en Posesión de Particulares y su Reglamento (en lo sucesivo de manera conjunta, la “Ley”), pone a su disposición el presente Aviso de Privacidad, con la finalidad que conozca de qué manera se usan, divulgan y almacenan sus datos personales y cualquier información que se recabe a través de distintos medios incluyendo nuestro sitio web y aplicación móvil, a efecto de garantizar la privacidad de dicha información y el derecho a la autodeterminación informativa de las personas.
+Asimismo, hace de su conocimiento las finalidades por las que el Responsable recaba y trata sus Datos Personales (según dicho término se define más adelante).
+El Responsable recabará los siguientes datos personales: Nombre completo, correo electrónico, numero de teléfono, contraseña (en caso de ser administrador). (en lo sucesivo, los “Datos Personales”), necesarios para los siguientes fines:
+Generación de citas, con la finalidad de brindar el servicio que usted nos solicita y proporcionarle la atención que más se adecue a sus preferencias, atender cambios de cita y aclaraciones (vía WhatsApp), uso interno administrativo, actualización de base de datos, cualquier finalidad análoga o compatible con las anteriores.
+
+De conformidad con la Ley, requerimos de su consentimiento expreso para el tratamiento de sus Datos Personales sensible, salvo por las excepciones que establece la Ley. Si usted manifiesta su consentimiento para el tratamiento de sus Datos Personales sensibles, el Responsable se compromete a no tratar estos Datos Personales para finalidades distintas de las establecidas en este Aviso de Privacidad.
+Usted tiene derecho de acceder a sus Datos Personales que poseemos y a los detalles de sus vitas generadas, así como a rectificarlos en caso de ser inexactos, datos incompletos, existir cambios de cita o bien, cancelarlos cuando considere que no se requieren para alguna de las finalidades señaladas en el presente Aviso de Privacidad o que considere que estén siendo utilizados para finalidades no consentidas o haya:
+1 finalizado la relación contractual o de servicio, o bien, oponerse al tratamiento de los mismos para fines específicos (en lo sucesivo, los “Derechos ARCO”).
+Para el ejercicio de los Derechos ARCO, usted deberá presentar la solicitud respectiva, a través de la siguiente información de contacto: alberto_sl@tesch.edu.com o en el teléfono 5538870172 de lunes a viernes de 10:00 am a 8:00 pm.
+La solicitud que presente para el ejercicio de los Derechos ARCO deberá indicar su nombre y el domicilio o correo electrónico en el que se desea recibir toda la información relacionada con el trámite, además de estar acompañada (o) del o los documentos con los que se acredite su identidad o la personalidad de su representante legal.
+Asimismo, le agradeceremos incluir una descripción clara y precisa de los datos respecto de los que se busca ejercer alguno de los Derechos ARCO y de cualquier otro elemento que nos permita identificar o localizar los Datos Personales en cuestión. Cuando se trate de “rectificación” de sus Datos Personales, deberá indicarnos también cuál es la modificación exacta que busca realizar y presentar la documentación que soporte la petición en caso de ser de manera física, ya que el servicio web que le ofrecemos le otorga la opción de modificar o cancelar citas en el momento que usted lo requiera.
+Adicionalmente, por su protección y beneficio, es posible que le solicitemos documentación adicional que nos permita identificar con plenitud los Datos Personales que desee acceder, rectificar y/o cancelar, o aquellos respecto de los cuales usted desee oponerse respecto a la agenda de citas.
+El Responsable procurará que los Datos Personales contenidos en las bases de datos sean pertinentes, correctos y actualizados para los fines para los cuales fueron recabados y cuando hayan dejado de ser necesarios para el cumplimiento de las finalidades previstas, deberán ser cancelados.
+No obstante lo anterior, es posible que el Responsable no pueda cancelar o bloquear sus Datos Personales de conformidad con lo dispuesto por la Ley.
+Una vez recibida su solicitud completa y debidamente integrada, el Responsable le comunicará la respuesta correspondiente en un plazo máximo de 10 días hábiles. Si resultare procedente, dentro de los siguientes 15 días hábiles podrá hacer efectivo el derecho solicitado.
+En caso de que el Responsable deba hacer entrega de documentación como resultado del derecho ejercido, lo hará a través de copias que le serán enviadas por correo electrónico o las pondrá a su disposición en el domicilio que al efecto le indique, dentro del plazo antes mencionado, para que usted pueda recogerlas directamente o a través de tercero facultado mediante carta poder.
+Usted puede en cualquier momento revocar el consentimiento que nos ha otorgado para impedir total o parcialmente el tratamiento de sus Datos Personales, sin embargo, es importante que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal el Responsable requiera seguir tratando sus Datos Personales.
+Asimismo, usted deberá considerar que para ciertos fines, la revocación de su consentimiento implicará que no le podamos seguir prestando el servicio y/o atención solicitada, o la conclusión de su relación con el Responsable.
+En caso de que desee revocar su consentimiento al tratamiento de sus Datos Personales, deberá presentar su solicitud ante el Responsable acompañada de copia de su identificación oficial para acreditar que es el titular de los Datos Personales (en su caso, la autorización de su representante legal), y señalar el correo electrónico o domicilio al que se desea recibir la información relacionada con el trámite, una descripción clara y precisa de los Datos Personales respecto de los cuales requiere revocar su consentimiento y los datos que nos permitan notificarle la resolución recaída a su solicitud. El Responsable le notificará la resolución correspondiente a su solicitud dentro de los 10 días hábiles siguientes a la presentación de su solicitud, siempre que ésta se encuentre completa y debidamente integrada.
+Con el objeto de que usted pueda limitar el uso y divulgación de su información personal, puede inscribirse en el Registro Público para Evitar Publicidad, que está a cargo de la Procuraduría Federal del Consumidor (PROFECO), con la finalidad de que sus Datos Personales no sean utilizados para recibir publicidad o promociones, para mayor información sobre este registro, usted puede consultar el portal de Internet de la PROFECO.
+En cualquier momento el Responsable puede hacer modificaciones o actualizaciones  al presente Aviso de Privacidad derivadas de nuevos requerimientos legales, de las políticas o prácticas de privacidad del Responsable o de sus necesidades derivadas de los productos o servicios que ofrece, o por cualquier otra causa.
+El Responsable hará de su conocimiento cualquier cambio o actualización al presente aviso a través de correo electrónico."
+            android:textAlignment="inherit"
+            android:textColor="#000000"
+            android:textSize="10sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView39"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="TextView"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView40" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="544dp"
+            android:layout_height="194dp"
+            android:layout_marginStart="-70dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/avisoprivacidad"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />#000000"
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

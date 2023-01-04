@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_room1"
+            android:icon="@drawable/ic_baseline_room_service_24"
+
+            android:title="Salón 1" />
+        <item
+            android:id="@+id/nav_room2"
+            android:icon="@drawable/ic_baseline_room_service_24"
+
+            android:title="Salón 2" />
+
+        <item
+            android:id="@+id/nav_citas"
+            android:icon="@drawable/ic_baseline_date_range_24"
+
+            android:title="Citas" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_baseline_contact_page_24"
+            android:title="Contacto" />
+        <item
+            android:id="@+id/nav_admin"
+            android:icon="@drawable/ic_baseline_admin_panel_settings_24"
+
+            android:title="Administrador" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_room_service_24"
+            android:visible="false"
+            android:title="Salones" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:visible="false"
+            android:icon="@drawable/ic_baseline_celebration_24"
+            android:title="Paquetes" />
+        <item
+            android:id="@+id/nav_privacidad"
+            android:icon="@android:drawable/ic_lock_idle_lock"
+            android:title="Aviso de privacidad" />
+
+    </group>
+</menu>
